@@ -8,7 +8,7 @@
 - **Student Name:** [Enter Your Name]
 - **Student ID No:** [Enter Your Student ID]
 - **Lecturer:** Mr Udara Samaratunge
-- **GitHub URL:** [Paste GitHub URL Here]
+- **GitHub URL:** https://github.com/Sikander744/weekly-checkpoint4
 
 ---
 
